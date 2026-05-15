@@ -1,0 +1,15 @@
+# Compiled Java class files
+bin/
+*.class
+
+# Eclipse metadata (user specific)
+.settings/
+
+# Temporary files and logs
+compile_errors.txt
+jar_contents.txt
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
